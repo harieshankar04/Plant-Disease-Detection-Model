@@ -40,5 +40,5 @@ Follow these steps to set up the project environment and install the necessary d
 
 ### *2. Clone the Repository*
 ```bash
-git clone [https://github.com/harieshankar04/Plant-Disease-Detection-Model](https://github.com/harieshankar04/Plant-Disease-Detection-Model.git)
+git clone https://github.com/harieshankar04/Plant-Disease-Detection-Model
 cd crop-disease-detection
